@@ -1,4 +1,4 @@
-#Spencer Taira Personal Website
+# Spencer Taira Personal Website
     spencertaira.com
 
     Domain name gotten through name.com
